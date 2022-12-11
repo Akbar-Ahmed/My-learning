@@ -1,2 +1,2 @@
 # My-learning
-It contains multiple notes of DevOps
+It contains my notes of DevOps
